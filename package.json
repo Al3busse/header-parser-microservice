@@ -1,5 +1,5 @@
 {
-  "name": "request_header",
+  "name": "Header Parser",
   "version": "0.0.1",
   "description": "FreeCodeCamp - APIs and Microservices Projects",
   "main": "server.js",
